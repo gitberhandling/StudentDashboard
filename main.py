@@ -3,7 +3,7 @@ from dash import dcc, html, dash_table, Input, Output, State
 import pandas as pd
 
 # Load the dataset
-file_path = 'C:\\Users\\kaila\\PycharmProjects\\StudentDashboard\\dataset1.csv'
+file_path = 'dataset1.csv'
 df = pd.read_csv(file_path)
 
 # Clean column names to remove leading/trailing spaces
