@@ -23,12 +23,10 @@ A web-based dashboard to visualize and analyze student survey responses, includi
 
 Install the dependencies using:
 
-    ```bash
     pip install dash pandas plotly
 
 1.Clone this repository:
 
-    ```bash
     git clone https://github.com/your-username/StudentDashboard.git
     cd StudentDashboard
 
@@ -36,7 +34,6 @@ Install the dependencies using:
 
 Run the app:
 
-    ```bash
     python app.py
 
     
